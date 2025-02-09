@@ -1,4 +1,2 @@
 # Advertisement-video-classification
-Developed a web application using Django and Google Cloud to analyze ad transcriptions with an LSTM model. 
-Preprocessed text data and trained a high-performance LSTM model to understand sequential information in 
-ad content. 
+Engineered a video classification model leveraging an LSTM network with Keras/TensorFlow, achieving [Insert Validation Accuracy Here]% validation accuracy in categorizing YouTube videos based on title and description analysis. Implemented text preprocessing techniques using NLTK and utilized Embedding layers to represent words in a continuous vector space, improving the model's ability to understand semantic relationships. This project enhances video organization and discovery by automating content categorization. The project is documented on GitHub, showcasing the end-to-end process from data analysis to model deployment.
